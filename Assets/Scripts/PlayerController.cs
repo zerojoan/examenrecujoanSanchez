@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
-public class PlayerController1 : MonoBehaviour
+public class PlayerController : MonoBehaviour
 {
     private NavMeshAgent _playerAgent;
     // Start is called before the first frame update
